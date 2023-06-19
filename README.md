@@ -3,8 +3,8 @@ A gradebook storing students' name and score with a command line interface that 
 This program also supports write and read to/from text and binary. 
 
 ## Notes
-This program was coded and tested in a Linux Environment. 
-Ensure that you are in the right directory
+- This program was coded and tested in a Linux Environment <br>
+- Ensure that you are in the right directory
 
 ## Running Instructions
 
