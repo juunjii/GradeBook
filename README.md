@@ -11,7 +11,7 @@ This program also supports write and read to/from text and binary.
 ### Method 1: Makefile
 A Makefile is provided. This program then invokes gcc and other commands on your behalf.
 
-The Makefile supports the following commands:<br>
+The Makefile supports the following commands (listed only necessary ones for running):<br>
 
 **make**: Compile all code, produce an executable gradbook_main program<br>
 **make clean**: Remove all compiled items, useful if you want to recompile everything from scratch
