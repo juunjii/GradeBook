@@ -20,7 +20,7 @@ The Makefile supports the following commands:<br>
 2. A new file *'gradebook_main'* would be added to the file directory
 3. Type *'./gradebook_main'* to run the program
 
-### gcc compiler 
+### Method 2: gcc compiler 
 1. In Linux terminal, type *'gcc gradebook_main.c'*
 2. A new file **'./a.out'** would be added to the file directory
 3. Type *'./a.out'* to run the program. 
